@@ -5,6 +5,7 @@ const path = require("path");
 
 const app = express();
 
+//changes done
 app.use(cors());
 app.use(bodyParser.json());
 
